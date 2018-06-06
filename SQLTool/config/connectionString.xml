@@ -1,0 +1,3 @@
+﻿<connectionStrings>
+  <add name="connection" connectionString="server=.;database=data;uid=sa;pwd=******" providerName="System.Data.SqlClient" />
+</connectionStrings>
